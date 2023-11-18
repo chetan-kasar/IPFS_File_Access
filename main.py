@@ -109,4 +109,4 @@ def upload_image():
 
 
 if __name__ == "__main__":
-    app.run(host= "192.168.225.13", debug=True)
+    app.run(debug=True)
